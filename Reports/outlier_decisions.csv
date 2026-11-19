@@ -1,0 +1,2 @@
+Method,Decision,Reason
+IQR Rule,Retained,Potential outliers may represent valid employee information.
